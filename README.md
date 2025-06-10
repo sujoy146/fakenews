@@ -23,4 +23,4 @@ There are two files, one for real news and one for fake news (both in English) w
 The analysis
 All of the analysis can be found in the notebook:
 
-https://github.com/FavioVazquez/fake-news/blob/master/FakeNews.ipynb
+[https://github.com/sujoy146/fakenews/blob/main/FakeNews.ipynb]
